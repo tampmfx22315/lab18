@@ -1,0 +1,36 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 1;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://cdn.tgdd.vn/Files/2021/08/01/1372350/dac-diem-y-nghia-va-nhung-cong-dung-huu-ich-cua-hoa-cuc-vang-202206061134120145.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://cdn.vuanem.com/blog/wp-content/uploads/2022/11/hoa-sen-trang-1.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://cafefcdn.com/203337114487263232/2023/2/14/photo-14-167634493987434485677.jpg);
+}
